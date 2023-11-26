@@ -364,7 +364,7 @@ class HashTable {
     }
 }
 
-
+// Create a hash table
 const hashTable = new HashTable(100);
 
 // Insert data
